@@ -58,6 +58,11 @@ var apiData = [{
   "id": 2,
   "firstname": "Vladislav",
   "surname": "Mataganov"
+},
+{
+  "id": 3,
+  "firstname": "Hanzala",
+  "surname": "Sali Latifi"
 }]
 
 app.get("/apiData", (req, res) => {
